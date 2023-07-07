@@ -1,4 +1,4 @@
-# desafio_analise_exploratoria
+# Desafio - Análise Exploratória
  Desafio 01 do curso de Data Analytics
 
 **Atividade proposta:**
